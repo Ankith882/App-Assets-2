@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Baiyappanahalli",
+    "latitude": 12.99098,
+    "longitude": 77.65253
+  },
+  {
+    "name": "SV Road",
+    "latitude": 13.0100,
+    "longitude": 77.6650
+  },
+  {
+    "name": "Indiranagar",
+    "latitude": 12.9780,
+    "longitude": 77.6400
+  },
+  {
+    "name": "Halasuru",
+    "latitude": 12.9750,
+    "longitude": 77.6300
+  },
+  {
+    "name": "Trinity",
+    "latitude": 12.9730,
+    "longitude": 77.6200
+  },
+  {
+    "name": "MG Road",
+    "latitude": 12.9750,
+    "longitude": 77.6050
+  },
+  {
+    "name": "Cubbon Park",
+    "latitude": 12.9750,
+    "longitude": 77.5950
+  },
+  {
+    "name": "Dr.B.R. Amnedkar Stn.,Vidhana Soudha",
+    "latitude": 12.9790,
+    "longitude": 77.5900
+  },
+  {
+    "name": "Sir M. Visveshwaraya",
+    "latitude": 12.9800,
+    "longitude": 77.5850
+  },
+  {
+    "name": "Nadaprabhu Kempegowda Stn., (Majestic)",
+    "latitude": 12.9750,
+    "longitude": 77.5730
+  },
+  {
+    "name": "KSR Railway Station",
+    "latitude": 12.9770,
+    "longitude": 77.5700
+  },
+  {
+    "name": "Magadi Road",
+    "latitude": 12.9750,
+    "longitude": 77.5550
+  },
+  {
+    "name": "Sri Balagangadharanatha Swamiji Stn., Hosahalli",
+    "latitude": 12.9770,
+    "longitude": 77.5500
+  },
+  {
+    "name": "Vijaynagar",
+    "latitude": 12.9700,
+    "longitude": 77.5400
+  },
+  {
+    "name": "Attiguppe",
+    "latitude": 12.9650,
+    "longitude": 77.5350
+  },
+  {
+    "name": "Deepanjali Nagar",
+    "latitude": 12.9600,
+    "longitude": 77.5300
+  },
+  {
+    "name": "Mysuru Road",
+    "latitude": 12.9550,
+    "longitude": 77.5250
+  },
+  {
+    "name": "Pantharaplaya-Nayandahalli",
+    "latitude": 12.9500,
+    "longitude": 77.5200
+  },
+  {
+    "name": "Rajarjeshwari Nagar",
+    "latitude": 12.9450,
+    "longitude": 77.5150
+  },
+  {
+    "name": "Jnanabharathi",
+    "latitude": 12.9400,
+    "longitude": 77.5100
+  },
+  {
+    "name": "Pattangere",
+    "latitude": 12.9350,
+    "longitude": 77.5050
+  },
+  {
+    "name": "Kengeri Bus Terminal",
+    "latitude": 12.9300,
+    "longitude": 77.5000
+  },
+  {
+    "name": "Kengeri",
+    "latitude": 12.9250,
+    "longitude": 77.4950
+  },
+  {
+    "name": "Challaghatta",
+    "latitude": 12.9200,
+    "longitude": 77.4900
+  },
+  {
+    "name": "Benniganahalli",
+    "latitude": 13.0050,
+    "longitude": 77.6750
+  },
+  {
+    "name": "Krishnarajapura",
+    "latitude": 13.0000,
+    "longitude": 77.6870
+  },
+  {
+    "name": "Singayyanapalya",
+    "latitude": 12.9950,
+    "longitude": 77.7050
+  },
+  {
+    "name": "Garudacharpalya",
+    "latitude": 12.9900,
+    "longitude": 77.7100
+  },
+  {
+    "name": "Hoodi",
+    "latitude": 12.9920,
+    "longitude": 77.7150
+  },
+  {
+    "name": "Seetharampalya",
+    "latitude": 12.9650,
+    "longitude": 77.7100
+  },
+  {
+    "name": "Kundalahalli",
+    "latitude": 12.9680,
+    "longitude": 77.7150
+  },
+  {
+    "name": "Nallur Halli",
+    "latitude": 12.9700,
+    "longitude": 77.7200
+  },
+  {
+    "name": "Sri Sathya Sai Hospital",
+    "latitude": 12.9800,
+    "longitude": 77.7300
+  },
+  {
+    "name": "Pattandur Agrahara",
+    "latitude": 12.9875,
+    "longitude": 77.7400
+  },
+  {
+    "name": "Kadugodi Tree Park",
+    "latitude": 12.9950,
+    "longitude": 77.7570
+  },
+  {
+    "name": "Hopefarm Channasandra",
+    "latitude": 12.9870,
+    "longitude": 77.7560
+  },
+  {
+    "name": "Hopefarm Channasandra",
+    "latitude": 12.9870,
+    "longitude": 77.7560
+  },
+  {
+    "name": "Whitefield (Kadugodi)",
+    "latitude": 12.9683,
+    "longitude": 77.7381
+  },
+  {
+    "name": "Nagasandra",
+    "latitude": 13.0600,
+    "longitude": 77.5000
+  },
+  {
+    "name": "Dasarahalli",
+    "latitude": 13.0550,
+    "longitude": 77.4950
+  },
+  {
+    "name": "Jalahalli",
+    "latitude": 13.0500,
+    "longitude": 77.4900
+  },
+  {
+    "name": "Peenya Industry",
+    "latitude": 13.0450,
+    "longitude": 77.4850
+  },
+  {
+    "name": "Peenya",
+    "latitude": 13.0400,
+    "longitude": 77.4800
+  },
+  {
+    "name": "Goraguntepalya",
+    "latitude": 13.0350,
+    "longitude": 77.4750
+  },
+  {
+    "name": "Yeshwanthpur",
+    "latitude": 13.0250,
+    "longitude": 77.4700
+  },
+  {
+    "name": "Sandal Soap Factory",
+    "latitude": 13.0200,
+    "longitude": 77.4650
+  },
+  {
+    "name": "Mahalakshmi",
+    "latitude": 13.0150,
+    "longitude": 77.4600
+  },
+  {
+    "name": "Rajajinagar",
+    "latitude": 13.0100,
+    "longitude": 77.4550
+  },
+  {
+    "name": "Mahakavi Kuvempu Road",
+    "latitude": 13.0050,
+    "longitude": 77.4500
+  },
+  {
+    "name": "Srirampura",
+    "latitude": 13.0000,
+    "longitude": 77.4450
+  },
+  {
+    "name": "Mantri Square Sampige Road",
+    "latitude": 12.9950,
+    "longitude": 77.4400
+  },
+  {
+    "name": "Chickpete",
+    "latitude": 12.9700,
+    "longitude": 77.5750
+  },
+  {
+    "name": "KR Market",
+    "latitude": 12.9650,
+    "longitude": 77.5800
+  },
+  {
+    "name": "National College",
+    "latitude": 12.9600,
+    "longitude": 77.5850
+  },
+  {
+    "name": "Lalbagh",
+    "latitude": 12.9500,
+    "longitude": 77.5850
+  },
+  {
+    "name": "South End Circle",
+    "latitude": 12.9450,
+    "longitude": 77.5800
+  },
+  {
+    "name": "Jayanagar",
+    "latitude": 12.9400,
+    "longitude": 77.5750
+  },
+  {
+    "name": "Banashankari",
+    "latitude": 12.9300,
+    "longitude": 77.5650
+  },
+  {
+    "name": "JP Nagar",
+    "latitude": 12.9250,
+    "longitude": 77.5600
+  },
+  {
+    "name": "Yelachenahalli",
+    "latitude": 12.9200,
+    "longitude": 77.5550
+  },
+  {
+    "name": "Konanakunte Cross",
+    "latitude": 12.9150,
+    "longitude": 77.5500
+  },
+  {
+    "name": "Doddakallasandra",
+    "latitude": 12.9100,
+    "longitude": 77.5450
+  },
+  {
+    "name": "Vajarahalli",
+    "latitude": 12.9050,
+    "longitude": 77.5400
+  },
+  {
+    "name": "Thalghattapura",
+    "latitude": 12.9000,
+    "longitude": 77.5350
+  },
+  {
+    "name": "Silk Institute",
+    "latitude": 12.8950,
+    "longitude": 77.5300
+  },
+  {
+    "name": "Manjunatha Nagar",
+    "latitude": 13.0550,
+    "longitude": 77.5050
+  },
+  {
+    "name": "Chikkabidarakallu",
+    "latitude": 13.0500,
+    "longitude": 77.5100
+  },
+  {
+    "name": "Madavara",
+    "latitude": 13.0450,
+    "longitude": 77.5150
+  },
+  {
+    "name": "RV Road",
+    "latitude": 12.9350,
+    "longitude": 77.5700
+  },
+  {
+    "name": "Ragigudda",
+    "latitude": 12.9300,
+    "longitude": 77.5750
+  },
+  {
+    "name": "Jayadeva Hospital",
+    "latitude": 12.9250,
+    "longitude": 77.5800
+  },
+  {
+    "name": "BTM Layout",
+    "latitude": 12.9200,
+    "longitude": 77.5850
+  },
+  {
+    "name": "Central Silk Board",
+    "latitude": 12.9150,
+    "longitude": 77.5900
+  },
+  {
+    "name": "Bommanahalli",
+    "latitude": 12.9100,
+    "longitude": 77.5950
+  },
+  {
+    "name": "Hongasandra",
+    "latitude": 12.9050,
+    "longitude": 77.6000
+  },
+  {
+    "name": "Kudlu Gate",
+    "latitude": 12.9000,
+    "longitude": 77.6050
+  },
+  {
+    "name": "Singasandra",
+    "latitude": 12.8950,
+    "longitude": 77.6100
+  },
+  {
+    "name": "Hosa Road",
+    "latitude": 12.8900,
+    "longitude": 77.6150
+  },
+  {
+    "name": "Beratena Agrahara",
+    "latitude": 12.8850,
+    "longitude": 77.6200
+  },
+  {
+    "name": "Electronic City",
+    "latitude": 12.8800,
+    "longitude": 77.6250
+  },
+  {
+    "name": "Infosys Foundation Konappana Agrahara",
+    "latitude": 12.8750,
+    "longitude": 77.6300
+  },
+  {
+    "name": "Huskur Road",
+    "latitude": 12.8700,
+    "longitude": 77.6350
+  },
+  {
+    "name": "Biocon Hebbagodi",
+    "latitude": 12.8650,
+    "longitude": 77.6400
+  },
+  {
+    "name": "Delta Electronics Bommasandra",
+    "latitude": 12.8600,
+    "longitude": 77.6450
+  }
+]
