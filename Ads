@@ -17,10 +17,6 @@
 "redirect_url": "https://play.google.com/store/search?q=blinkit&c=apps&hl=en_IN"
 },
 {
-"image_url": "https://i.postimg.cc/gjL7PSwq/Citi-bank.png",
-"redirect_url": "https://www.citigroup.com/global"
-},
-{
 "image_url": "https://i.postimg.cc/DZZDxynx/Coin-Switch.png",
 "redirect_url": "https://play.google.com/store/search?q=coinswitch&c=apps&hl=en_IN"
 },
@@ -73,20 +69,12 @@
 "redirect_url": "https://play.google.com/store/search?q=Meesho&c=apps&hl=en_IN"
 },
 {
-"image_url": "https://i.postimg.cc/wxtxv9Lk/Microsoft.jpg",
-"redirect_url": "https://www.microsoft.com/en-us/surface/devices/surface-laptop"
-},
-{
 "image_url": "https://i.postimg.cc/RFDYy50v/Money.png",
 "redirect_url": "https://play.google.com/store/search?q=money+view&c=apps&hl=en_IN"
 },
 {
 "image_url": "https://i.postimg.cc/9MnkK5fC/NIrvana-Strips-1600x.webp",
 "redirect_url": "https://www.boat-lifestyle.com/collections/nirvana-by-boat?srsltid=AfmBOootMm8hsGG0aQpZZhVVwj-t3L82PBdi-Y_JuRxLo9wYxggkgvAW"
-},
-{
-"image_url": "https://i.postimg.cc/yWqb6mc4/Nescafe.jpg",
-"redirect_url": "https://www.nescafe.com/in/"
 },
 {
 "image_url": "https://i.postimg.cc/k519JH5L/Nike.gif",
@@ -109,10 +97,6 @@
 "redirect_url": "https://play.google.com/store/search?q=Phonepe&c=apps&hl=en_IN"
 },
 {
-"image_url": "https://i.postimg.cc/4x6rdSWc/Phone-Pay-Long-Banner.jpg",
-"redirect_url": "https://www.phonepe.com/"
-},
-{
 "image_url": "https://i.postimg.cc/wjXSvGwF/Phonepay-Banner.webp",
 "redirect_url": "https://www.phonepe.com/"
 },
@@ -131,10 +115,6 @@
 {
 "image_url": "https://i.postimg.cc/QdG2j3JG/Razor-Pay.png",
 "redirect_url": "https://play.google.com/store/search?q=Razor%20pay&c=apps&hl=en_IN"
-},
-{
-"image_url": "https://i.postimg.cc/kMVM47KK/Samsung.jpg",
-"redirect_url": "https://www.samsung.com/in/tvs/8k-tv/?srsltid=AfmBOopXT98x8bw8AmgaUKkODBY-aYOha0lxPD7SeYv6xxhUBR95iVj0"
 },
 {
 "image_url": "https://i.postimg.cc/DZSh8cWC/Seekho.png",
@@ -173,40 +153,12 @@
 "redirect_url": "https://play.google.com/store/search?q=zepto&c=apps&hl=en_IN"
 },
 {
-"image_url": "https://i.postimg.cc/kGRHd1VG/gotomeeting-ad-example.png",
-"redirect_url": "https://www.goto.com/meeting"
-},
-{
-"image_url": "https://i.postimg.cc/8zbN3cgp/hapag-liyod-banner-ad-example.png",
-"redirect_url": "https://www.hapag-lloyd.com/en/home.html"
-},
-{
-"image_url": "https://i.postimg.cc/Y9sPZKSS/jira-ad-example.png",
-"redirect_url": "https://www.atlassian.com/software/jira/service-management"
-},
-{
-"image_url": "https://i.postimg.cc/h4HDQN1p/new-yorker-ad-example.png",
-"redirect_url": "https://www.nytimes.com/subscription/"
-},
-{
-"image_url": "https://i.postimg.cc/7hJRysC4/samsung-galaxy-banner-ad.jpg",
-"redirect_url": "https://www.samsung.com/in/smartphones/galaxy-s24-ultra/?srsltid=AfmBOoptFpWHUAR9oxsB-bV4s70zbTvj5XLR2a_HOZG4t7btDn9pGJA1"
-},
-{
 "image_url": "https://i.postimg.cc/PJv7k3Ly/smithfield-ham-banner-ad.png",
 "redirect_url": "https://www.smithfieldfoods.com/"
 },
 {
-"image_url": "https://i.postimg.cc/cCtzN9Kx/windows10_pro_ad_example.png",
-"redirect_url": "https://www.dell.com/en-in"
-},
-{
 "image_url": "https://blog.swiggy.com/wp-content/uploads/2024/05/IMG_4011-1.jpg",
 "redirect_url": "https://www.swiggy.com"
-},
-{
-"image_url": "https://rukminim2.flixcart.com/fk-p-flap/3240/540/image/e6c51589cafdb5ce.jpeg?q=60",
-"redirect_url": "https://www.flipkart.com"
 },
 {
 "image_url": "https://storage.googleapis.com/website-production/uploads/2023/01/pluralsight-banner-ad-example.png",
