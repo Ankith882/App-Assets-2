@@ -1,4 +1,69 @@
 [
+ {
+    "name": "Whitefield (Kadugodi)",
+    "latitude": 12.9683,
+    "longitude": 77.7381
+  },
+ {
+    "name": "Hopefarm channasandra",
+    "latitude": 12.9870,
+    "longitude": 77.7560
+  },
+ {
+    "name": "Kadugodi tree park",
+    "latitude": 12.9950,
+    "longitude": 77.7570
+  },
+ {
+    "name": "Pattandur agrahara",
+    "latitude": 12.9875,
+    "longitude": 77.7400
+  },
+ {
+    "name": "Sri sathya sai hospital",
+    "latitude": 12.9800,
+    "longitude": 77.7300
+  },
+ {
+    "name": "Nallur halli",
+    "latitude": 12.9700,
+    "longitude": 77.7200
+  },
+ {
+    "name": "Kundalahalli",
+    "latitude": 12.9680,
+    "longitude": 77.7150
+  },
+ {
+    "name": "Seetharampalya",
+    "latitude": 12.9650,
+    "longitude": 77.7100
+  },
+ {
+    "name": "Hoodi",
+    "latitude": 12.9920,
+    "longitude": 77.7150
+  },
+ {
+    "name": "Garudacharpalya",
+    "latitude": 12.9900,
+    "longitude": 77.7100
+  },
+ {
+    "name": "Singayyanapalya",
+    "latitude": 12.9950,
+    "longitude": 77.7050
+  },
+ {
+    "name": "Krishnarajapura",
+    "latitude": 13.0000,
+    "longitude": 77.6870
+  },
+{
+    "name": "Benniganahalli",
+    "latitude": 13.0050,
+    "longitude": 77.6750
+  },
   {
     "name": "Baiyappanahalli",
     "latitude": 12.99098,
@@ -25,42 +90,42 @@
     "longitude": 77.6200
   },
   {
-    "name": "MG Road",
+    "name": "MG road",
     "latitude": 12.9750,
     "longitude": 77.6050
   },
   {
-    "name": "Cubbon Park",
+    "name": "Cubbon park",
     "latitude": 12.9750,
     "longitude": 77.5950
   },
   {
-    "name": "Dr.B.R. Amnedkar Stn.,Vidhana Soudha",
+    "name": "Dr.b.r. ambedkar stn.,vidhana soudha",
     "latitude": 12.9790,
     "longitude": 77.5900
   },
   {
-    "name": "Sir M. Visveshwaraya",
+    "name": "Sir m. visveshwaraya",
     "latitude": 12.9800,
     "longitude": 77.5850
   },
   {
-    "name": "Nadaprabhu Kempegowda Stn., (Majestic)",
+    "name": "Nadaprabhu kempegowda stn., majestic",
     "latitude": 12.9750,
     "longitude": 77.5730
   },
   {
-    "name": "KSR Railway Station",
+    "name": "Ksr railway station",
     "latitude": 12.9770,
     "longitude": 77.5700
   },
   {
-    "name": "Magadi Road",
+    "name": "Magadi road",
     "latitude": 12.9750,
     "longitude": 77.5550
   },
   {
-    "name": "Sri Balagangadharanatha Swamiji Stn., Hosahalli",
+    "name": "Sri balagangadharanatha swamiji stn., hosahalli",
     "latitude": 12.9770,
     "longitude": 77.5500
   },
@@ -75,22 +140,22 @@
     "longitude": 77.5350
   },
   {
-    "name": "Deepanjali Nagar",
+    "name": "Deepanjali nagar",
     "latitude": 12.9600,
     "longitude": 77.5300
   },
   {
-    "name": "Mysuru Road",
+    "name": "Mysuru road",
     "latitude": 12.9550,
     "longitude": 77.5250
   },
   {
-    "name": "Pantharaplaya-Nayandahalli",
+    "name": "Pantharaplaya-nayandahalli",
     "latitude": 12.9500,
     "longitude": 77.5200
   },
   {
-    "name": "Rajarjeshwari Nagar",
+    "name": "Rajarjeshwari nagar",
     "latitude": 12.9450,
     "longitude": 77.5150
   },
@@ -105,7 +170,7 @@
     "longitude": 77.5050
   },
   {
-    "name": "Kengeri Bus Terminal",
+    "name": "Kengeri bus terminal",
     "latitude": 12.9300,
     "longitude": 77.5000
   },
@@ -119,75 +184,20 @@
     "latitude": 12.9200,
     "longitude": 77.4900
   },
-  {
-    "name": "Benniganahalli",
-    "latitude": 13.0050,
-    "longitude": 77.6750
+ {
+    "name": "Madavara",
+    "latitude": 13.0450,
+    "longitude": 77.5150
   },
-  {
-    "name": "Krishnarajapura",
-    "latitude": 13.0000,
-    "longitude": 77.6870
+ {
+    "name": "Chikkabidarakallu",
+    "latitude": 13.0500,
+    "longitude": 77.5100
   },
-  {
-    "name": "Singayyanapalya",
-    "latitude": 12.9950,
-    "longitude": 77.7050
-  },
-  {
-    "name": "Garudacharpalya",
-    "latitude": 12.9900,
-    "longitude": 77.7100
-  },
-  {
-    "name": "Hoodi",
-    "latitude": 12.9920,
-    "longitude": 77.7150
-  },
-  {
-    "name": "Seetharampalya",
-    "latitude": 12.9650,
-    "longitude": 77.7100
-  },
-  {
-    "name": "Kundalahalli",
-    "latitude": 12.9680,
-    "longitude": 77.7150
-  },
-  {
-    "name": "Nallur Halli",
-    "latitude": 12.9700,
-    "longitude": 77.7200
-  },
-  {
-    "name": "Sri Sathya Sai Hospital",
-    "latitude": 12.9800,
-    "longitude": 77.7300
-  },
-  {
-    "name": "Pattandur Agrahara",
-    "latitude": 12.9875,
-    "longitude": 77.7400
-  },
-  {
-    "name": "Kadugodi Tree Park",
-    "latitude": 12.9950,
-    "longitude": 77.7570
-  },
-  {
-    "name": "Hopefarm Channasandra",
-    "latitude": 12.9870,
-    "longitude": 77.7560
-  },
-  {
-    "name": "Hopefarm Channasandra",
-    "latitude": 12.9870,
-    "longitude": 77.7560
-  },
-  {
-    "name": "Whitefield (Kadugodi)",
-    "latitude": 12.9683,
-    "longitude": 77.7381
+ {
+    "name": "Manjunatha nagar",
+    "latitude": 13.0550,
+    "longitude": 77.5050
   },
   {
     "name": "Nagasandra",
@@ -225,7 +235,7 @@
     "longitude": 77.4700
   },
   {
-    "name": "Sandal Soap Factory",
+    "name": "Sandal soap factory",
     "latitude": 13.0200,
     "longitude": 77.4650
   },
@@ -240,7 +250,7 @@
     "longitude": 77.4550
   },
   {
-    "name": "Mahakavi Kuvempu Road",
+    "name": "Mahakavi kuvempu road",
     "latitude": 13.0050,
     "longitude": 77.4500
   },
@@ -250,7 +260,7 @@
     "longitude": 77.4450
   },
   {
-    "name": "Mantri Square Sampige Road",
+    "name": "Mantri square sampige road",
     "latitude": 12.9950,
     "longitude": 77.4400
   },
@@ -260,12 +270,12 @@
     "longitude": 77.5750
   },
   {
-    "name": "KR Market",
+    "name": "Kr market",
     "latitude": 12.9650,
     "longitude": 77.5800
   },
   {
-    "name": "National College",
+    "name": "National college",
     "latitude": 12.9600,
     "longitude": 77.5850
   },
@@ -275,7 +285,7 @@
     "longitude": 77.5850
   },
   {
-    "name": "South End Circle",
+    "name": "South end circle",
     "latitude": 12.9450,
     "longitude": 77.5800
   },
@@ -283,6 +293,11 @@
     "name": "Jayanagar",
     "latitude": 12.9400,
     "longitude": 77.5750
+  },
+ {
+    "name": "RV Road",
+    "latitude": 12.9350,
+    "longitude": 77.5700
   },
   {
     "name": "Banashankari",
@@ -300,7 +315,7 @@
     "longitude": 77.5550
   },
   {
-    "name": "Konanakunte Cross",
+    "name": "Konanakunte cross",
     "latitude": 12.9150,
     "longitude": 77.5500
   },
@@ -325,42 +340,22 @@
     "longitude": 77.5300
   },
   {
-    "name": "Manjunatha Nagar",
-    "latitude": 13.0550,
-    "longitude": 77.5050
-  },
-  {
-    "name": "Chikkabidarakallu",
-    "latitude": 13.0500,
-    "longitude": 77.5100
-  },
-  {
-    "name": "Madavara",
-    "latitude": 13.0450,
-    "longitude": 77.5150
-  },
-  {
-    "name": "RV Road",
-    "latitude": 12.9350,
-    "longitude": 77.5700
-  },
-  {
     "name": "Ragigudda",
     "latitude": 12.9300,
     "longitude": 77.5750
   },
   {
-    "name": "Jayadeva Hospital",
+    "name": "Jayadeva hospital",
     "latitude": 12.9250,
     "longitude": 77.5800
   },
   {
-    "name": "BTM Layout",
+    "name": "Btm layout",
     "latitude": 12.9200,
     "longitude": 77.5850
   },
   {
-    "name": "Central Silk Board",
+    "name": "Central silk board",
     "latitude": 12.9150,
     "longitude": 77.5900
   },
@@ -390,32 +385,32 @@
     "longitude": 77.6150
   },
   {
-    "name": "Beratena Agrahara",
+    "name": "Beratena agrahara",
     "latitude": 12.8850,
     "longitude": 77.6200
   },
   {
-    "name": "Electronic City",
+    "name": "Electronic city",
     "latitude": 12.8800,
     "longitude": 77.6250
   },
   {
-    "name": "Infosys Foundation Konappana Agrahara",
+    "name": "Infosys foundation konappana agrahara",
     "latitude": 12.8750,
     "longitude": 77.6300
   },
   {
-    "name": "Huskur Road",
+    "name": "Huskur road",
     "latitude": 12.8700,
     "longitude": 77.6350
   },
   {
-    "name": "Biocon Hebbagodi",
+    "name": "Biocon hebbagodi",
     "latitude": 12.8650,
     "longitude": 77.6400
   },
   {
-    "name": "Delta Electronics Bommasandra",
+    "name": "Delta electronics bommasandra",
     "latitude": 12.8600,
     "longitude": 77.6450
   }
