@@ -57,10 +57,6 @@
 "redirect_url": "https://play.google.com/store/search?q=Lenskart&c=apps&hl=en_IN"
 },
 {
-"image_url": "https://i.postimg.cc/RC3CFvKq/Loreal.jpg",
-"redirect_url": "https://www.lorealparis.co.in/"
-},
-{
 "image_url": "https://i.postimg.cc/7Y0x3XBT/Max-Petz.png",
 "redirect_url": "https://www.maxpetz.com/"
 },
