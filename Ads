@@ -69,10 +69,6 @@
 "redirect_url": "https://play.google.com/store/search?q=money+view&c=apps&hl=en_IN"
 },
 {
-"image_url": "https://i.postimg.cc/9MnkK5fC/NIrvana-Strips-1600x.webp",
-"redirect_url": "https://www.boat-lifestyle.com/collections/nirvana-by-boat?srsltid=AfmBOootMm8hsGG0aQpZZhVVwj-t3L82PBdi-Y_JuRxLo9wYxggkgvAW"
-},
-{
 "image_url": "https://i.postimg.cc/k519JH5L/Nike.gif",
 "redirect_url": "https://www.nike.com/in/"
 },
