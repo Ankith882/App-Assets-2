@@ -145,10 +145,6 @@
 "redirect_url": "https://play.google.com/store/search?q=zepto&c=apps&hl=en_IN"
 },
 {
-"image_url": "https://i.postimg.cc/PJv7k3Ly/smithfield-ham-banner-ad.png",
-"redirect_url": "https://www.smithfieldfoods.com/"
-},
-{
 "image_url": "https://blog.swiggy.com/wp-content/uploads/2024/05/IMG_4011-1.jpg",
 "redirect_url": "https://www.swiggy.com"
 },
